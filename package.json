@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/turnio.figma-tokens-l5849rl4",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve mfyIwBl8QUhoWOpIZkRj --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
